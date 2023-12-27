@@ -1,0 +1,6 @@
+.eslintrc.cjs
+node_modules/
+public/
+dist/
+postcss.config.cjs
+tailwind.config.js
